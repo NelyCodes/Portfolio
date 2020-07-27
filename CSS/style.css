@@ -1,0 +1,156 @@
+html {
+  border: solid #4a47a3;
+  border-width: 0 35px 35px 35px;
+  scroll-behavior: smooth;
+}
+.navbar {
+  background-color: #4a47a3;
+  text-align: center;
+  font-family: 'Arapey', serif;
+  margin: 0 auto;
+
+}
+td {
+padding: 20px;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: #eab9c9;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Arapey', serif;
+}
+
+.topdiv {
+  background-color: #4a47a3;
+  position: relative;
+  padding: 100px;
+  border: 10px double #4a47a3;
+}
+
+.profilepic {
+  height: 300px;
+  width: 275px;
+  border-radius: 100%;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin: 40px auto;
+
+}
+
+.intro {
+  color: white;
+  letter-spacing: 0.2rem;
+}
+
+.name {
+  font-family: 'Arapey', serif;
+  font-size: 3.3rem;
+  padding-bottom: 30px;
+  border: 0;
+}
+
+.horizontal1 {
+  border: 7px dotted #4a47a3;
+  border-bottom: none;
+  border-width: 2%;
+  width: 5%;
+  margin: 20px auto 100px;
+  opacity: 70%;
+}
+
+#heading1 {
+  color: #ad62aa;
+  border: 0;
+  font-size: 2.5rem;
+  font-family: 'Arapey', serif;
+  letter-spacing: 0.2rem;
+  padding-bottom: 20px;
+}
+
+.paragraphs {
+  color: #ad62aa;
+  font-size: 1.3rem;
+  letter-spacing: 0.1rem;
+  padding-bottom: 20px;
+}
+
+.computerpic {
+  height: 300px;
+  width: 300px;
+  float: left;
+  padding-left: 100px;
+}
+
+#MySkills {
+  color: #ad62aa;
+  border: 0;
+  font-size: 2.5rem;
+  font-family: 'Arapey', serif;
+  letter-spacing: 0.2rem;
+}
+
+#skillsparagraph {
+  color: #ad62aa;
+  font-size: 1.3rem;
+  letter-spacing: 0.1rem;
+  margin: 100px auto 100px auto;
+  width: 30%;
+  text-align: left;
+  line-height: 1.5;
+  margin-right: 600px;
+}
+
+.bootstrapimage {
+  height: 270px;
+  width: 350px;
+  float: right;
+  margin-left: 50px;
+  padding-right: 100px;
+  border-radius: 100%;
+}
+
+#bootstrapparagraph {
+  color: #ad62aa;
+  font-size: 1.3rem;
+  letter-spacing: 0.1rem;
+  margin: 100px auto 100px auto;
+  width: 30%;
+  line-height: 1.5;
+  margin-left: 600px;
+  text-align: right;
+}
+
+#MyBusiness {
+  color: #ad62aa;
+  border: 0;
+  font-size: 2.5rem;
+  font-family: 'Arapey', serif;
+  letter-spacing: 0.2rem;
+  margin: 200px auto 70px;
+}
+
+.inhalaimage {
+  height: 490px;
+  width: 370px;
+  float: left;
+  margin-left: 100px;
+  border-radius: 25%;
+
+}
+
+#ContactMe {
+  color: #ad62aa;
+  border: 0;
+  font-size: 2.5rem;
+  font-family: 'Arapey', serif;
+  letter-spacing: 0.2rem;
+  margin: 600px auto 70px;
+}
